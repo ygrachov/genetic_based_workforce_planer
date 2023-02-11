@@ -72,4 +72,5 @@ print(fitness(hours, c[0][0]), ' ', fitness(hours, c[0][-1]))
 print('\n')
 for y in c[2]:
     print(fitness(hours, y), end=' ')
+#MBPro2
 
